@@ -29,6 +29,8 @@ Dark theme is not available for **[Firefox](https://www.mozilla.org)** or any ot
 
 ## Changelog
 
+* **Version 0.2.3:** The news teaser is no longer grey. It now matches the other teasers and snippets.
+The hover-over tooltipster is now dark grey instead of light grey, but the arrow under/beside it haven't been changed yet.
 * **Version 0.2.2:** Titles has been given to moderators and scientists in chat. The titles persist of three letters each. There is "Mod" for the moderators and "Dev" for the scientists.
 * **Version 0.2.1:** Titles will appear under selected users; Moderators, Scientists and Dark Theme Developers. They will have a title with the same font size as the username.
 * **Version 0.2.0:** The extension is finished. The images has been added and the colours has been changed. There has also been added minor details to Tank Trouble.
