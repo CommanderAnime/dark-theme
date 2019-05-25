@@ -1,4 +1,4 @@
-# <img src="https://i.imgur.com/4YRDtwQ.png" alt="icon"> Dark Theme for Tank Trouble
+# <img src="https://i.imgur.com/e7Vl1zb.png" alt="icon"> Dark Theme for Tank Trouble
 
 Give TankTrouble a new look with this smooth and coherent dark theme.
 
