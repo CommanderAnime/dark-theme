@@ -30,6 +30,12 @@ Dark theme is not available for **[Firefox](https://www.mozilla.org)** or any ot
 ## Changelog
 
 * **Version 0.3.0:** The on/off toggle button in the popup is now functional and saves what it was on last time the popup was open. Major bug fixes to the forum and the chat has been made and a custom news post for the dark theme to tell you about all the new changes and news!
+
+Bug fixes:
+All pop-up issues are patched.
+Hover-over tooltipster arrow is now no longer grey.
+The chat had major issues when displaying a title which is now fixed if your website is zoomed in on 100%
+
 * **Version 0.2.2:** Titles has been given to moderators and scientists in chat. The titles persist of three letters each. There is "Mod" for the moderators and "Dev" for the scientists.
 * **Version 0.2.1:** Titles will appear under selected users; Moderators, Scientists and Dark Theme Developers. They will have a title with the same font size as the username.
 * **Version 0.2.0:** The extension is finished. The images has been added and the colours has been changed. There has also been added minor details to Tank Trouble.
