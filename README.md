@@ -30,6 +30,7 @@ Dark theme is not available for **[Firefox](https://www.mozilla.org)** or any ot
 ## Changelog
 
 * **Version 0.3.2:** The new admin recruits are now displayed with the moderator title in chat and on the forum. Minor changes were also added.
+* **Version 0.3.1:** Lab Report hyperlinks to easiler access the newest news!
 * **Version 0.3.0:** The on/off toggle button in the popup is now functional and saves what it was on last time the popup was open. Major bug fixes to the forum and the chat has been made and a custom news post for the dark theme to tell you about all the new changes and news!
 
 Bug fixes:
