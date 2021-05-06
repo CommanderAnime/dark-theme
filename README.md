@@ -1,4 +1,6 @@
-# <img src="https://i.imgur.com/e7Vl1zb.png" alt="icon"> Dark Theme for Tank Trouble
+# <img src="https://i.imgur.com/e7Vl1zb.png" alt="icon"> Dark Theme for Tank Trouble (TankTroubleAddons)
+THIS PAGE HAS BEEN DEPRECATED AND ONLY SERVES AS A PLACEHOLDER. REFER TO THE TANKTROUBLEADDONS LISTING ON THE CHROME WEBSHOP OR THE ADDONS THREAD FOR ALL UPDATES: **[LISTING](https://chrome.google.com/webstore/detail/tanktroubleaddons/iaahklbbofakekcbhbjnpjbgaadhedhm)**
+
 
 Give TankTrouble a new look with this smooth and coherent dark theme.
 
